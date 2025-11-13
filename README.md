@@ -11,28 +11,14 @@ I enjoy building practical projects, learning new tools, and gaining hands-on sk
 ### 🔹 **📡 Reconnaissance Information Tool (Python)**
 A CLI-based recon tool that gathers device and network information such as IP details and open ports.  
 **Tech:** Python, Networking Fundamentals  
-**Repo:** _(Add link when uploaded)_
-
----
-
-### 🔹 **🗂️ Directory Traversal Attack Investigation (.pcap Analysis)**
-Analyzed an FTP directory traversal attack using Wireshark to identify unauthorized file access and attack paths.  
-**Tech:** Wireshark, FTP, Forensics  
-**Repo:** _(Add link when uploaded)_
-
----
-
-### 🔹 **🔍 Splunk Malware Incident Response**
-Investigated simulated malware logs using Splunk, identified IOCs, and documented attacker behaviors.  
-**Tech:** Splunk, Logging, Incident Response  
-**Repo:** _(Add link when uploaded)_
+**Repo:** (https://github.com/kevinelremawy/recon-site)
 
 ---
 
 ### 🔹 **🌐 Volunteer Portal Web App (Team Project)**
 Team project featuring admin/volunteer dashboards, event pages, and role-based views.  
 **Tech:** HTML, CSS, JavaScript  
-**Repo:** _(Add link when uploaded)_
+**Repo:** _(https://github.com/kevinelremawy/volunteer-portal)_
 
 ---
 
