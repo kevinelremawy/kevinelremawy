@@ -31,7 +31,7 @@ Built and deployed a basic Flask API to handle invoice requests for a rental sit
 
 ## ✔️ What I’m Working On
 - CompTIA A+ (Core 1 & 2)
-- Expanding cybersecurity labs  
+- Expanding Information Technology labs  
 - Growing my GitHub portfolio
 - Applying for entry-level IT & cybersecurity roles
 
